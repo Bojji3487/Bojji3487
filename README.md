@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Heyyyy👋, I'm Neeraj  <a href="github.com/bojji3487"><img src="https://skillicons.dev/icons?i=github&perline=1" alt="GitIcon" /></a></h1>
+<h1 align="center">Heyyyy👋, I'm Neeraj  <a href="https://github.com/Bojji3487"><img src="https://skillicons.dev/icons?i=github&perline=1" alt="GitIcon" /></a></h1>
 <h3 align="center">I love Programming and Coffee</h3>
 <img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3d079e1f-386b-4bd0-84fc-cce9913fbc0c/df4r3fj-f8dae000-4c4b-4838-8a30-b077466b89ef.jpg/v1/fill/w_1024,h_577,q_75,strp/brothers_in_arms_by_anatofinnstark_df4r3fj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc3IiwicGF0aCI6IlwvZlwvM2QwNzllMWYtMzg2Yi00YmQwLTg0ZmMtY2NlOTkxM2ZiYzBjXC9kZjRyM2ZqLWY4ZGFlMDAwLTRjNGItNDgzOC04YTMwLWIwNzc0NjZiODllZi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.UPjD3lXFgFt1R5OswFt57lHvdzexbGNOzZxMgZT_Rik">
 <p align="left"><br/><ul><li>✏️Currently learning:<br/> 
