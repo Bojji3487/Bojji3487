@@ -1,19 +1,14 @@
-
-
 <h1 align="center">Heyyyy👋, I'm Neeraj  <a href="https://github.com/Bojji3487"><img src="https://skillicons.dev/icons?i=github&perline=1" alt="GitIcon" /></a></h1>
 <h3 align="center">I love Programming and Coffee</h3>
-<img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3d079e1f-386b-4bd0-84fc-cce9913fbc0c/df4r3fj-f8dae000-4c4b-4838-8a30-b077466b89ef.jpg/v1/fill/w_1024,h_577,q_75,strp/brothers_in_arms_by_anatofinnstark_df4r3fj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc3IiwicGF0aCI6IlwvZlwvM2QwNzllMWYtMzg2Yi00YmQwLTg0ZmMtY2NlOTkxM2ZiYzBjXC9kZjRyM2ZqLWY4ZGFlMDAwLTRjNGItNDgzOC04YTMwLWIwNzc0NjZiODllZi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.UPjD3lXFgFt1R5OswFt57lHvdzexbGNOzZxMgZT_Rik">
-<p align="left"><br/><ul><li>✏️Currently learning:<br/> 
- <b>Javascript and TailwindCSS</b></li><br/>
- <li>🤝I’m looking to collaborate on<br/> 
- <b>UI and WebApps</b></li>
- </ul>
-</p>
+<img align="center" src="https://img.freepik.com/free-vector/team-mobile-web-app-development_107791-12795.jpg?t=st=1744119916~exp=1744123516~hmac=894abec5f434032a9dc86c706265f3f10a44e999ae2ec36482152d0b8a9d28ab&w=826">
 
-<hr>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neeraj.apk._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-narnolia-currently-learning-python-396804222/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neerajnarn2016@gmail.com) 
 
-<h3 align="left">Socials:</h3><a href="https://instagram.com/neeraj.apk._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neeraj.apk._" height="30" width="40" /></a>
-<hr>
-<h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<br>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bojji3487&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bojji3487&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bojji3487&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
